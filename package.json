@@ -1,0 +1,53 @@
+{
+  "_args": [
+    [
+      "@ionic-native/keychain-touch-id@4.15.0",
+      "/Users/ciouser/Downloads/ruf-ionic-login-master@6ac409f2957"
+    ]
+  ],
+  "_from": "@ionic-native/keychain-touch-id@4.15.0",
+  "_id": "@ionic-native/keychain-touch-id@4.15.0",
+  "_inBundle": false,
+  "_integrity": "sha1-Z/c0blWjixSk6Op7uLqinPNN768=",
+  "_location": "/@ionic-native/keychain-touch-id",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@ionic-native/keychain-touch-id@4.15.0",
+    "name": "@ionic-native/keychain-touch-id",
+    "escapedName": "@ionic-native%2fkeychain-touch-id",
+    "scope": "@ionic-native",
+    "rawSpec": "4.15.0",
+    "saveSpec": null,
+    "fetchSpec": "4.15.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://repo.devcloud.sungard.com/artifactory/api/npm/npm-cto/@ionic-native/keychain-touch-id/-/keychain-touch-id-4.15.0.tgz",
+  "_spec": "4.15.0",
+  "_where": "/Users/ciouser/Downloads/ruf-ionic-login-master@6ac409f2957",
+  "author": {
+    "name": "ionic"
+  },
+  "bugs": {
+    "url": "https://github.com/ionic-team/ionic-native/issues"
+  },
+  "description": "Ionic Native - Native plugins for ionic apps",
+  "homepage": "https://github.com/ionic-team/ionic-native#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native/keychain-touch-id",
+  "peerDependencies": {
+    "@ionic-native/core": "^4.11.0",
+    "@angular/core": "*",
+    "rxjs": "^5.5.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ionic-team/ionic-native.git"
+  },
+  "typings": "index.d.ts",
+  "version": "4.15.0"
+}
